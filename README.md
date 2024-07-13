@@ -1,5 +1,6 @@
-# test_repo
+# test repo
 - chihlee
 - raspberry
 test for practice git hub
-test for git config --global credential.helper 'cache --time=604800'  
+test again for git config --global credential.helper 'cache --time=604800'
+from vscode
